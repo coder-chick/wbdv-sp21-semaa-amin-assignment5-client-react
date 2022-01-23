@@ -1,3 +1,27 @@
+# wbdv-sp21-semaa-amin-assignment5-client-react
+CS5610 Assignment 4 - Single Page Application State Management
+
+# Web Development - Assignment 5 - 
+Course Materials from the Masters Computer Networking class CS5610 at Northeastern University
+
+
+## To Run the program:
+
+1. Clone or Download the code
+2. Go to the file in the terminal and type the following commands:
+    * npm install
+    * npm run
+
+
+## Features for Assignment 4
+* Navigating from Course List to Course Editor
+* Navigating between Modules, Lessons, and Topics
+* Maintaining state for current Course, Module, Lesson, and Topic
+
+
+## Author:
+* Semaa Amin
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
